@@ -1,8 +1,8 @@
 import styled from 'styled-components'
 
-export const Container = styled.div`
-  background: pink;
-  color: white;
-  font-size: 15px;
-  line-height: 30px;
+export const Container = styled.button`
+  background: violet;
+  padding: 16px;
+  font-size: 20px;
+  line-height: 24px;
 `
